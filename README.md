@@ -74,7 +74,8 @@ class CalmYellowGreenDogfish(QCAlgorithm):
                 
             self.Plot("Data Chart", "Stop Price", self.stopMarketTicket.Get(OrderField.StopPrice)) 
             
-            <img width="944" alt="Screenshot 2021-12-16 at 16 36 49" src="https://user-images.githubusercontent.com/55410500/146645756-9c7f08b0-7d35-4b94-8369-0019eae40e99.png">
+
+<img width="944" alt="Screenshot 2021-12-16 at 16 36 49" src="https://user-images.githubusercontent.com/55410500/146645756-9c7f08b0-7d35-4b94-8369-0019eae40e99.png">
             
 <img width="958" alt="Screenshot 2021-12-16 at 16 42 06" src="https://user-images.githubusercontent.com/55410500/146645759-0d38a8b0-5b09-485d-b17b-aa2d0e681747.png">
 
